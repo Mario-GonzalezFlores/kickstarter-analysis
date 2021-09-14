@@ -22,7 +22,7 @@
 ### When we create the chart we can see that there seem to be ranges that alternate in which success and failure rates drop or rise drastically, giving us important information to consider for our analysis.
 
 
-### Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 
 ### ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89816213/133297794-59f8eba1-5a9b-4bd1-9379-8503c675df10.png)
 
@@ -30,13 +30,13 @@
 
 ### Although the months betwween may and july show a peak in successful campaigns, we can also see that these are the months with most campaign launches, while february and april have a similar success rate and much less competition for funds.
 
-### Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 
 ### ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89816213/133300030-7141144d-57cf-4c89-8544-2f0b8d52794e.png)
 
 ### In this chart we can see that the best success rates are for plays that ask for less than 5,000 dollars and between 35,000 to 44,999; while plays in the range between 15,000 and 34,999 are most likely to fail.
 
-### Analysis of Average donation and number of backers
+## Analysis of Average donation and number of backers
 
 ### ![Avg-donation-backers](https://user-images.githubusercontent.com/89816213/133305157-bda3d44b-18ba-4843-92c2-5f81d247bc88.png)
 
